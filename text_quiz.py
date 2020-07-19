@@ -1,6 +1,3 @@
-import time
-
-
 # Storing the correct answers.
 correct = 0 
 
